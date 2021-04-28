@@ -21,11 +21,13 @@ However, in order to help Louise as best as I could, I knew I would have to dive
 ### Analysis of Outcomes Based on Launch Date
 
  The first graph below shows the results of the number of successful, failed, or canceled theater projects by the month it was launched, which tells us that it is best to launch a campaign earlier in the year.
+ 
  ![Theater_Outcomes_Vs_Launch](https://user-images.githubusercontent.com/77767984/116329904-f1936f80-a791-11eb-96b2-aa616882c88e.png)
  
 ### Analysis of Outcomes Based on Goals
 
 The next graph below shows the results of outcomes for Theater performances in relationship to their initial fundraising goals. As we can see, for the most part, having a lower fundraising goal correlates to a higher rate of successful campaigns. However, other factors, such as outliers, have slightly skewed the data, specifically in some of the extreme higher ranges of campaign goals.
+
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/77767984/116329912-f526f680-a791-11eb-87fa-7414a90733ea.png)
 
 ### Challenges and Difficulties Encountered
