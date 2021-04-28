@@ -10,8 +10,10 @@ The purpose of this project was to help Louise with her fundraising campaign for
 
 After careful analysis, we can see that the parent category **Plays**, which includes theater productions, overall has more successful campaigns than failed campaigns, as seen below.
 ![Parent Category Outcomes](https://user-images.githubusercontent.com/77767984/116001887-82b0ed80-a5bc-11eb-875b-6ab187f76205.png)
+
 This is **great** news for Louise! Further analysis shows us that most successful kickstarters occur towards the beginning of the year, as seen below.
 ![2 3 3 bar graph](https://user-images.githubusercontent.com/77767984/116001890-847ab100-a5bc-11eb-8423-ffc67f61d8bc.png)
+
 However, in order to help Louise as best as I could, I knew I would have to dive deeper into the data, specifically into the **Theaters** subcategory. With the use of filtering, as well as the visualization tools Excel provides, I was able to make the data more relevant to our specific situation.
 
 ### Analysis of Outcomes Based on Launch Date
