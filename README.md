@@ -37,13 +37,17 @@ Some challenges I faced during this analysis were figuring out how to correctly 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 Overall, it appears that to have the highest chance of running a successful campaign, it is best to launch the campaign earlier in the year. Vice versa, launching a campaign towards the end of the year increases the chance of the campaign failing.
 
 - What can you conclude about the Outcomes based on Goals?
+
 This graph doesn't paint as clear a picture as the previous graph, however it seems fair to say that for the most part, a lower fundraising goal correlates to a higher chance of the campaign being successful.
 
 - What are some limitations of this dataset?
+
 One immediate limitation I notice is the lack of representation of any possible outliers. One way to correct this, which was demonstrated in a practice module, would be to include a box and whisker plot to better visualize any outliers. Another limitation could be having to manually input any new campaigns that begin now or in the future, instead of being able to automate that process.
 
 - What are some other possible tables and/or graphs that we could create?
+
 We could create a graph representing the outcomes of the campaigns based on how long the fundraising campaigns lasted for, as well as break down our current data to filter for relevant countries that the kickstarter would take place, such as just the U.S. or U.K.
